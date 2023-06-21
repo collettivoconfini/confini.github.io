@@ -1,0 +1,9 @@
+
+   @font-face {
+     font-family: 'stjelogo';
+     src: 
+     url('stjelogo/Strjmono.ttf') format('ttf'),
+     font-weight: normal;
+     font-style: normal;
+   }
+c process for uploading and using your own custom font on the web. There are also some additional considerations to keep in mind, such as licensing and font optimization, but those are beyond the scope of this answer.
